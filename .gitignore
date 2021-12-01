@@ -44,7 +44,8 @@
 .LSOverride
 
 # Icon must end with two \r
-Icon
+Icon
+
 
 # Thumbnails
 ._*
@@ -83,6 +84,9 @@ Temporary Items
 
 # Support for Project snippet scope
 !.vscode/*.code-snippets
+
+main.dSYM*
+main
 
 # End of https://www.toptal.com/developers/gitignore/api/visualstudiocode,macos,c++
 
